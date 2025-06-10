@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31800985827",
+    "project_id": "pulsefit-dev",
+    "storage_bucket": "pulsefit-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31800985827:android:9da7ce96e7c619e0a5ddd6",
+        "android_client_info": {
+          "package_name": "com.kpfu.pulse_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1xSUFOV_YSzBAFD_AyxS0GEe0Xa7c_dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
